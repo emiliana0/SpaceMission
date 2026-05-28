@@ -62,3 +62,9 @@ CodeCoverage/
 TestResult.xml
 nunit-*.xml
 
+# IntelliJ
+.idea/
+*.iml
+
+# Archives
+*.zip
